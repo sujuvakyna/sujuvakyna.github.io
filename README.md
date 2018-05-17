@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sujuvakyna/sujuvakyna.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Sujuva Kynä
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> Käännös- ja kielenhuoltopalvelut.
 
-### Markdown
+Tarjoan käännös- ja kielenhuoltopalveluja tarkkuudella niin, että lopputuloksena on luonteva ja sujuva teksti. Minulla on kokemusta asiatekstien, markkinointimateriaalien sekä www-sivujen että tietokoneohjelmien käyttöliittymätekstien kääntämisestä. Käännöspalveluja teen Suomen, Ruotsin ja Englannin välillä. Kielenhuoltoa teen pääasiassa suomeksi.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Jag erbjuder ...
 
-```markdown
-Syntax highlighted code block
+I offer...
 
-# Header 1
-## Header 2
-### Header 3
+## Ota yhteyttä!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sujuvakyna/sujuvakyna.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> suvi@sujuvakyna.fi
+> +358 40 7240 358
