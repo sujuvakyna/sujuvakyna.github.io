@@ -12,17 +12,23 @@ body {
     max-width: 800px;
     margin: 0 auto;
     background: white;
+    padding-bottom: 6em;
 }
 
-blockquote p {
-    text-align: center;
-    font-family: 'Cinzel', serif;
-    font-size: 34px;
-    font-weight: 600;
-    margin: 0 0 50px 0;
-    line-height: 1.1em;
-}
+blockquote {
+    margin: 0;
+    padding: 0;
 
+    p {
+        text-align: center;
+        font-family: 'Cinzel', serif;
+        font-size: 34px;
+        font-weight: 600;
+        margin: 0 0 50px 0;
+        line-height: 1.1em;
+    }
+    
+} 
 h1 {
     font-family: 'Calligraffitti', cursive;
     font-size: 90px;
@@ -59,3 +65,23 @@ hr:before {
     border-width: 0 0 1px 0;
     border-radius: 20px;    
 }
+
+blockquote.contact {
+    margin: 0;
+    padding: 3em;
+    display: flex;
+    flex-direction: row;
+
+    img {
+        width: 33%;
+        flex: 0;
+    }
+
+    p {
+        flex: 1;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 20px;
+        text-align: left;
+    }
+
+} 
