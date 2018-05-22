@@ -20,5 +20,14 @@ I offer...
 
 ------
 
-suvi@sujuvakyna.fi
+Yhteystiedot
+
+T:mi Suvi Koskiniemi / Sujuva kynä 
+
+Sähköposti: suvi@sujuvakyna.fi
+
 +358 40 7240 358
+
+Y-tunnus: 2886215-5
+
+-------
