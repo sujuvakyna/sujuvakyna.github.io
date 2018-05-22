@@ -1,0 +1,62 @@
+---
+---
+
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans', serif;
+    font-size: 18px;
+    line-height: 1.5em;
+    font-weight: 300;
+}
+
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+}
+
+blockquote p {
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 34px;
+    font-weight: 600;
+    margin: 0 0 50px 0;
+    line-height: 1.1em;
+}
+
+h1 {
+    font-family: 'Calligraffitti', cursive;
+    font-size: 90px;
+    letter-spacing: 2px;
+    line-height: 1.5em;
+    padding: 200px 0 0px 0;
+    text-align: center;
+    margin: 0 0 36px 0;
+}
+
+p {
+    font-size: 18px; 
+    line-height: 2em;
+}
+
+hr {
+    overflow: visible;
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+    width: 50%;
+    margin: 0 auto;    
+}
+
+hr:before {
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;    
+}
