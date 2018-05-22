@@ -10,16 +10,6 @@ Tarjoan käännös- ja editointipalveluja suomen, ruotsin ja englannin kielellä
 
 ## Ota yhteyttä!
 
-------
-
-Jag erbjuder ...
-
-------
-
-I offer...
-
-------
-
 Yhteystiedot
 
 T:mi Suvi Koskiniemi / Sujuva kynä 
