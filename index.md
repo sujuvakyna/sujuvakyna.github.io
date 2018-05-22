@@ -8,8 +8,6 @@ title: Sujuva Kynä
 
 Tarjoan käännös- ja kielenhuoltopalveluja tarkkuudella niin, että lopputuloksena on luonteva ja sujuva teksti. Minulla on kokemusta asiatekstien, markkinointimateriaalien sekä www-sivujen että tietokoneohjelmien käyttöliittymätekstien kääntämisestä. Käännöspalveluja teen Suomen, Ruotsin ja Englannin välillä. Kielenhuoltoa teen pääasiassa suomeksi.
 
-## Ota yhteyttä!
-
 ------
 
 Jag erbjuder ...
@@ -20,14 +18,9 @@ I offer...
 
 ------
 
-Yhteystiedot
-
-T:mi Suvi Koskiniemi / Sujuva kynä 
-
-Sähköposti: suvi@sujuvakyna.fi
-
-+358 40 7240 358
-
-Y-tunnus: 2886215-5
-
--------
+{: .contact}
+> ![Suvi Koskiniemi](/assets/suvi_koskiniemi.png)
+> T:mi Suvi Koskiniemi / Sujuva kynä 
+> Sähköposti: suvi@sujuvakyna.fi
+> +358 40 7240 358
+> Y-tunnus: 2886215-5
