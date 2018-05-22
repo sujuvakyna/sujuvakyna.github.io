@@ -2,21 +2,11 @@
 title: Sujuva Kynä
 ---
 
-> Käännös- ja kielenhuoltopalvelut.
+> Käännös- ja editointipalvelu
 
 ------
 
-Tarjoan käännös- ja kielenhuoltopalveluja tarkkuudella niin, että lopputuloksena on luonteva ja sujuva teksti. Minulla on kokemusta asiatekstien, markkinointimateriaalien sekä www-sivujen että tietokoneohjelmien käyttöliittymätekstien kääntämisestä. Käännöspalveluja teen Suomen, Ruotsin ja Englannin välillä. Kielenhuoltoa teen pääasiassa suomeksi.
-
-------
-
-Jag erbjuder ...
-
-------
-
-I offer...
-
-------
+Tarjoan käännös- ja editointipalveluja suomen, ruotsin ja englannin kielellä. Tavoitteenani on luonteva, sujuva ja oikeakielinen teksti, jota lukijan on helppo seurata ja johon asiakas on tyytyväinen. Oikolukeminen ja taitontarkistukset onnistuvat suomeksi, ruotsiksi ja englanniksi; kielenhuoltoa teen pääasiassa suomenkieliselle teksteille.
 
 {: .contact}
 > ![Suvi Koskiniemi](/assets/suvi_koskiniemi.png)
