@@ -4,7 +4,7 @@ title: Sujuva Kynä
 
 > Käännös- ja tekstipalvelu
 
-Tarjoan käännös- ja tekstipalveluja suomen, ruotsin ja englannin kielellä. Tavoitteenani on luonteva, sujuva ja oikeakielinen teksti, jota lukijan on helppo seurata ja johon asiakas on tyytyväinen sekä laadullisesti että aikataulullisesti. Olen erikoistunut asiatekstikääntämiseen (uutiset, lehtiartikkelit, tiedotteet, markkinointitekstit, www-sivujen tekstit, käyttöliittymätekstit)
+Tarjoan käännös- ja tekstipalveluja suomen, ruotsin ja englannin kielellä. Tavoitteenani on luonteva, sujuva ja oikeakielinen teksti, jota lukijan on helppo seurata ja johon asiakas on tyytyväinen sekä laadullisesti että aikataulullisesti. Olen erikoistunut asiatekstikääntämiseen (uutiset, lehtiartikkelit, tiedotteet, julkishallinnon tekstit, tietokirjatekstit, oppikirjatekstit, markkinointitekstit, www-sivujen tekstit, käyttöliittymätekstit, ohjeet jne.)
 
 - käännökset suomi – ruotsi – englanti
 - editointi, sujuvoittaminen, oikoluku ja taitontarkistukset suomeksi, ruotsiksi ja englanniksi
