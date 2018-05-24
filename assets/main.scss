@@ -3,9 +3,9 @@
 
 * {
     box-sizing: border-box;
-    font-family: 'Open Sans', serif;
+    font-family: 'Tajawal', serif;
     font-weight: 300;
-    font-size: 16px;
+    font-size: 22px;
 }
 
 body {
@@ -15,20 +15,6 @@ body {
     padding-bottom: 6em;
 }
 
-blockquote {
-    margin: 0;
-    padding: 0;
-
-    p {
-        text-align: center;
-        font-family: 'Cinzel', serif;
-        font-size: 34px;
-        font-weight: 600;
-        margin: 0 0 50px 0;
-        line-height: 1.1em;
-    }
-    
-} 
 h1 {
     font-family: 'Calligraffitti', cursive;
     font-size: 90px;
@@ -39,9 +25,19 @@ h1 {
     margin: 0 0 36px 0;
 }
 
+h2 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 34px;
+    font-weight: 600;
+    margin: 0 0 50px 0;
+    line-height: 1.1em;
+} 
+
 p {
-    font-size: 20px;
-    line-height: 1.7em;
+    line-height: 1.5em;
 }
 
 hr {
@@ -72,6 +68,7 @@ address {
     display: flex;
     flex-direction: row;
     align-items: center;
+    font-style: normal;
 
     img {
         width: 25%;
@@ -87,8 +84,7 @@ address {
         li {
             margin: 0;
             padding: 0;
-            font-size: 18px;
-            line-height: 2em;
+            line-height: 1.5em;
         }
     }
 } 
