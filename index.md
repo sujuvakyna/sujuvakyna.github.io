@@ -1,5 +1,5 @@
 ---
-title: Sujuva Kynä
+title: Sujuva kynä
 ---
 
 > Käännös- ja tekstipalvelu
