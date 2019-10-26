@@ -11,6 +11,8 @@ title: Kääntäjä ja toimittaja
 <address>
 <img src="suvi_koskiniemi.jpg" alt="Suvi Koskiniemi">
 
+<p>Ota yhteyttä!</p>
+
 <ul>
 <li><b>T:mi Suvi Koskiniemi / Sujuva kynä</b></li>
 <li>Sähköposti: suvi.koskiniemi@gmail.com</li>
