@@ -1,13 +1,10 @@
 
-# <span>Kääntäjä ja toimittaja</span> &ndash; T:mi Suvi Koskiniemi / Sujuva kynä
+# Kääntäjä ja toimittaja
+## T:mi Suvi Koskiniemi / Sujuva kynä
 
 - käännökset suomi – ruotsi – englanti
 - asiatekstien editointi, sujuvoittaminen, kielenhuolto, oikoluku ja taitontarkistukset 
 - tietokirjojen, oppikirjojen ja yritysviestinnän julkaisujen suunnittelu ja toteuttaminen
-
-Tarjoan käännös- ja editointipalveluja suomen, ruotsin ja englannin kielellä. Olen erikoistunut asiatekstikääntämiseen (uutiset, lehtiartikkelit, tiedotteet, julkishallinnon tekstit, tietokirjatekstit, oppikirjatekstit, markkinointitekstit, www-sivujen tekstit, käyttöliittymätekstit, ohjeet jne.). Tavoitteenani on luonteva, sujuva ja oikeakielinen teksti, jota lukijan on helppo seurata ja johon asiakas on tyytyväinen sekä laadullisesti että aikataulullisesti.
-
-
 
 <address>
 <img src="suvi_koskiniemi.jpg" alt="Suvi Koskiniemi">
