@@ -3,9 +3,6 @@
 
 * {
     box-sizing: border-box;
-    font-family: 'Tajawal', serif;
-    font-weight: 300;
-    font-size: 22px;
 }
 
 body {
@@ -13,6 +10,9 @@ body {
     margin: 0 auto;
     background: white;
     padding-bottom: 6em;
+    font-family: 'Tajawal', serif;
+    font-weight: 300;
+    font-size: 22px;
 }
 
 h1 {
@@ -69,6 +69,7 @@ address {
     flex-direction: row;
     align-items: center;
     font-style: normal;
+    font-size: 18px;
 
     img {
         width: 20%;
