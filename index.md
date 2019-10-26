@@ -1,6 +1,8 @@
 ---
-title: Kääntäjä ja kustannustoimittaja -- T:mi Suvi Koskiniemi / Sujuva kynä 
+title: Kääntäjä ja toimittaja &ndash; T:mi Suvi Koskiniemi / Sujuva kynä 
 ---
+
+# <span>Kääntäjä ja toimittaja</span> &ndash; T:mi Suvi Koskiniemi / Sujuva kynä
 
 - käännökset suomi – ruotsi – englanti
 - asiatekstien editointi, sujuvoittaminen, kielenhuolto, oikoluku ja taitontarkistukset 
