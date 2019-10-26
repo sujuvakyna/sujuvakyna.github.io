@@ -1,6 +1,3 @@
----
-title: Kääntäjä ja toimittaja &ndash; T:mi Suvi Koskiniemi / Sujuva kynä 
----
 
 # <span>Kääntäjä ja toimittaja</span> &ndash; T:mi Suvi Koskiniemi / Sujuva kynä
 
