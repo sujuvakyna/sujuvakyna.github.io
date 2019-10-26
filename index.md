@@ -1,3 +1,6 @@
+---
+title-heading: false
+---
 
 # Kääntäjä ja toimittaja
 ## T:mi Suvi Koskiniemi / Sujuva kynä
