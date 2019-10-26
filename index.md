@@ -1,8 +1,7 @@
 ---
-title-heading: false
+title: Kääntäjä ja toimittaja
 ---
 
-# Kääntäjä ja toimittaja
 ## T:mi Suvi Koskiniemi / Sujuva kynä
 
 - käännökset suomi – ruotsi – englanti
